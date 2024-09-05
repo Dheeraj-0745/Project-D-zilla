@@ -39,7 +39,7 @@ body{
   transform: translateX(-50%);
 }
 .godzilla{
-  background-image:url(Godzilla-removebg-preview.png); 
+  background-image:url(Godzilla.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 220px;
